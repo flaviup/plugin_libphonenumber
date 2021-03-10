@@ -17,8 +17,10 @@ dependencies:
     git: 
       url: https://github.com/flaviup/plugin_libphonenumber.git
       path: libphonenumber_platform_interface
-  libphonenumber_web: ^0.1.1
-
+  libphonenumber_web: #^0.1.1
+    git: 
+      url: https://github.com/flaviup/plugin_libphonenumber.git
+      path: libphonenumber_web
 dev_dependencies:
   flutter_test:
     sdk: flutter
