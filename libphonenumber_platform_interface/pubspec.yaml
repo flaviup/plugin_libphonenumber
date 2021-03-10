@@ -11,10 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  plugin_platform_interface: #^1.0.3
-    git: 
-      url: https://github.com/flaviup/plugin_libphonenumber.git
-      path: libphonenumber_platform_interface
+  plugin_platform_interface: ^1.0.3
 
 dev_dependencies:
   flutter_test:
